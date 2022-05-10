@@ -1,0 +1,2 @@
+# whitelistOfAd
+adguard home whitelist
